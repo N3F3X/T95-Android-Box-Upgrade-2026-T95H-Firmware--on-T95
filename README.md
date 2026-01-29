@@ -4,7 +4,7 @@
 
 
  
-## _Upgrade the Alwinner T95 - H616 Android TV Box With The T95H Android TV OS 2024._
+## _Upgrade the Alwinner T95 - H616 Android TV Box With The T95H Android TV OS 2026._
 
 REPO WILL BE UPDATED OVER TIME SO MAKE SURE TO BOOKMARK AND STAR :)
 
