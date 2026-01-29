@@ -1,6 +1,6 @@
 ﻿# T95 Android Box.
 
-26/08/2024: UPDATE: There is more firmware files i have for this device, I will be updating a new repo with the new files, If there is something you would like. Go to Issues and let me know there. 
+29/01/2026: UPDATE: Still Works For all these devices
 
 
  
